@@ -4,7 +4,6 @@
  - :computer: Sou um Desenvolvedor Web
 - :house_with_garden: Moro no Brasil
 - :books: Atualmente estou me aperfeiçoando em ReactJs e aprendendo Flutter
-- :outbox_tray: Em busca do meu primeiro emprego
 - :video_game: Gosto de jogar e ouvir músicas nas horas vagas
 
 
