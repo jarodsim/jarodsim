@@ -3,7 +3,7 @@
 
  - :computer: Sou um Desenvolvedor Web
 - :house_with_garden: Moro no Brasil
-- :books: Atualmente estou me aperfeiçoando em ReactJs e aprendendo Flutter
+- :books: Atualmente estou me aperfeiçoando em  ReactJs, Python e Flutter
 - :video_game: Gosto de jogar e ouvir músicas nas horas vagas
 
 
