@@ -24,6 +24,7 @@
 <code><img height= "20" src= "https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"></code>
 <code><img height= "20" src= "https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></code>
 <code><img height= "20" src= "https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"></code>
+<code><img height= "20" src= "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></code>
 
 ----------------
 ![Jarodsim GitHub stats](https://github-readme-stats.vercel.app/api?username=jarodsim&show_icons=true&theme=radical)
